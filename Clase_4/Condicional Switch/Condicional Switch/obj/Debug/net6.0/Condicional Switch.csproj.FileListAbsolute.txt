@@ -1,0 +1,15 @@
+E:\CURSO NET 6.0\Clase_4\Condicional Switch\Condicional Switch\obj\Debug\net6.0\Condicional Switch.csproj.AssemblyReference.cache
+E:\CURSO NET 6.0\Clase_4\Condicional Switch\Condicional Switch\obj\Debug\net6.0\Condicional Switch.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSO NET 6.0\Clase_4\Condicional Switch\Condicional Switch\obj\Debug\net6.0\Condicional Switch.AssemblyInfoInputs.cache
+E:\CURSO NET 6.0\Clase_4\Condicional Switch\Condicional Switch\obj\Debug\net6.0\Condicional Switch.AssemblyInfo.cs
+E:\CURSO NET 6.0\Clase_4\Condicional Switch\Condicional Switch\obj\Debug\net6.0\Condicional Switch.csproj.CoreCompileInputs.cache
+E:\CURSO NET 6.0\Clase_4\Condicional Switch\Condicional Switch\bin\Debug\net6.0\Condicional Switch.exe
+E:\CURSO NET 6.0\Clase_4\Condicional Switch\Condicional Switch\bin\Debug\net6.0\Condicional Switch.deps.json
+E:\CURSO NET 6.0\Clase_4\Condicional Switch\Condicional Switch\bin\Debug\net6.0\Condicional Switch.runtimeconfig.json
+E:\CURSO NET 6.0\Clase_4\Condicional Switch\Condicional Switch\bin\Debug\net6.0\Condicional Switch.dll
+E:\CURSO NET 6.0\Clase_4\Condicional Switch\Condicional Switch\bin\Debug\net6.0\Condicional Switch.pdb
+E:\CURSO NET 6.0\Clase_4\Condicional Switch\Condicional Switch\obj\Debug\net6.0\Condicional Switch.dll
+E:\CURSO NET 6.0\Clase_4\Condicional Switch\Condicional Switch\obj\Debug\net6.0\refint\Condicional Switch.dll
+E:\CURSO NET 6.0\Clase_4\Condicional Switch\Condicional Switch\obj\Debug\net6.0\Condicional Switch.pdb
+E:\CURSO NET 6.0\Clase_4\Condicional Switch\Condicional Switch\obj\Debug\net6.0\Condicional Switch.genruntimeconfig.cache
+E:\CURSO NET 6.0\Clase_4\Condicional Switch\Condicional Switch\obj\Debug\net6.0\ref\Condicional Switch.dll

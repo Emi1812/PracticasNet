@@ -1,0 +1,15 @@
+E:\CURSO NET 6.0\Clase_8\Clase_8_Matrices\Clase_8_Matrices\obj\Debug\net6.0\Clase_8_Matrices.csproj.AssemblyReference.cache
+E:\CURSO NET 6.0\Clase_8\Clase_8_Matrices\Clase_8_Matrices\obj\Debug\net6.0\Clase_8_Matrices.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSO NET 6.0\Clase_8\Clase_8_Matrices\Clase_8_Matrices\obj\Debug\net6.0\Clase_8_Matrices.AssemblyInfoInputs.cache
+E:\CURSO NET 6.0\Clase_8\Clase_8_Matrices\Clase_8_Matrices\obj\Debug\net6.0\Clase_8_Matrices.AssemblyInfo.cs
+E:\CURSO NET 6.0\Clase_8\Clase_8_Matrices\Clase_8_Matrices\obj\Debug\net6.0\Clase_8_Matrices.csproj.CoreCompileInputs.cache
+E:\CURSO NET 6.0\Clase_8\Clase_8_Matrices\Clase_8_Matrices\bin\Debug\net6.0\Clase_8_Matrices.exe
+E:\CURSO NET 6.0\Clase_8\Clase_8_Matrices\Clase_8_Matrices\bin\Debug\net6.0\Clase_8_Matrices.deps.json
+E:\CURSO NET 6.0\Clase_8\Clase_8_Matrices\Clase_8_Matrices\bin\Debug\net6.0\Clase_8_Matrices.runtimeconfig.json
+E:\CURSO NET 6.0\Clase_8\Clase_8_Matrices\Clase_8_Matrices\bin\Debug\net6.0\Clase_8_Matrices.dll
+E:\CURSO NET 6.0\Clase_8\Clase_8_Matrices\Clase_8_Matrices\bin\Debug\net6.0\Clase_8_Matrices.pdb
+E:\CURSO NET 6.0\Clase_8\Clase_8_Matrices\Clase_8_Matrices\obj\Debug\net6.0\Clase_8_Matrices.dll
+E:\CURSO NET 6.0\Clase_8\Clase_8_Matrices\Clase_8_Matrices\obj\Debug\net6.0\refint\Clase_8_Matrices.dll
+E:\CURSO NET 6.0\Clase_8\Clase_8_Matrices\Clase_8_Matrices\obj\Debug\net6.0\Clase_8_Matrices.pdb
+E:\CURSO NET 6.0\Clase_8\Clase_8_Matrices\Clase_8_Matrices\obj\Debug\net6.0\Clase_8_Matrices.genruntimeconfig.cache
+E:\CURSO NET 6.0\Clase_8\Clase_8_Matrices\Clase_8_Matrices\obj\Debug\net6.0\ref\Clase_8_Matrices.dll

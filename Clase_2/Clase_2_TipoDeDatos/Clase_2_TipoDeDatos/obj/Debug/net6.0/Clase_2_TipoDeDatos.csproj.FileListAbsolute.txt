@@ -1,0 +1,15 @@
+E:\CURSO NET 6.0\Clase_1\Clase_2_TipoDeDatos\Clase_2_TipoDeDatos\obj\Debug\net6.0\Clase_2_TipoDeDatos.csproj.AssemblyReference.cache
+E:\CURSO NET 6.0\Clase_1\Clase_2_TipoDeDatos\Clase_2_TipoDeDatos\obj\Debug\net6.0\Clase_2_TipoDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSO NET 6.0\Clase_1\Clase_2_TipoDeDatos\Clase_2_TipoDeDatos\obj\Debug\net6.0\Clase_2_TipoDeDatos.AssemblyInfoInputs.cache
+E:\CURSO NET 6.0\Clase_1\Clase_2_TipoDeDatos\Clase_2_TipoDeDatos\obj\Debug\net6.0\Clase_2_TipoDeDatos.AssemblyInfo.cs
+E:\CURSO NET 6.0\Clase_1\Clase_2_TipoDeDatos\Clase_2_TipoDeDatos\obj\Debug\net6.0\Clase_2_TipoDeDatos.csproj.CoreCompileInputs.cache
+E:\CURSO NET 6.0\Clase_1\Clase_2_TipoDeDatos\Clase_2_TipoDeDatos\bin\Debug\net6.0\Clase_2_TipoDeDatos.exe
+E:\CURSO NET 6.0\Clase_1\Clase_2_TipoDeDatos\Clase_2_TipoDeDatos\bin\Debug\net6.0\Clase_2_TipoDeDatos.deps.json
+E:\CURSO NET 6.0\Clase_1\Clase_2_TipoDeDatos\Clase_2_TipoDeDatos\bin\Debug\net6.0\Clase_2_TipoDeDatos.runtimeconfig.json
+E:\CURSO NET 6.0\Clase_1\Clase_2_TipoDeDatos\Clase_2_TipoDeDatos\bin\Debug\net6.0\Clase_2_TipoDeDatos.dll
+E:\CURSO NET 6.0\Clase_1\Clase_2_TipoDeDatos\Clase_2_TipoDeDatos\bin\Debug\net6.0\Clase_2_TipoDeDatos.pdb
+E:\CURSO NET 6.0\Clase_1\Clase_2_TipoDeDatos\Clase_2_TipoDeDatos\obj\Debug\net6.0\Clase_2_TipoDeDatos.dll
+E:\CURSO NET 6.0\Clase_1\Clase_2_TipoDeDatos\Clase_2_TipoDeDatos\obj\Debug\net6.0\refint\Clase_2_TipoDeDatos.dll
+E:\CURSO NET 6.0\Clase_1\Clase_2_TipoDeDatos\Clase_2_TipoDeDatos\obj\Debug\net6.0\Clase_2_TipoDeDatos.pdb
+E:\CURSO NET 6.0\Clase_1\Clase_2_TipoDeDatos\Clase_2_TipoDeDatos\obj\Debug\net6.0\Clase_2_TipoDeDatos.genruntimeconfig.cache
+E:\CURSO NET 6.0\Clase_1\Clase_2_TipoDeDatos\Clase_2_TipoDeDatos\obj\Debug\net6.0\ref\Clase_2_TipoDeDatos.dll

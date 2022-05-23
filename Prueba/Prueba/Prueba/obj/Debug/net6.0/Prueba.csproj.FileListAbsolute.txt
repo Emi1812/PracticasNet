@@ -1,0 +1,15 @@
+E:\CURSO NET 6.0\Prueba\Prueba\Prueba\bin\Debug\net6.0\Prueba.exe
+E:\CURSO NET 6.0\Prueba\Prueba\Prueba\bin\Debug\net6.0\Prueba.deps.json
+E:\CURSO NET 6.0\Prueba\Prueba\Prueba\bin\Debug\net6.0\Prueba.runtimeconfig.json
+E:\CURSO NET 6.0\Prueba\Prueba\Prueba\bin\Debug\net6.0\Prueba.dll
+E:\CURSO NET 6.0\Prueba\Prueba\Prueba\bin\Debug\net6.0\Prueba.pdb
+E:\CURSO NET 6.0\Prueba\Prueba\Prueba\obj\Debug\net6.0\Prueba.csproj.AssemblyReference.cache
+E:\CURSO NET 6.0\Prueba\Prueba\Prueba\obj\Debug\net6.0\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSO NET 6.0\Prueba\Prueba\Prueba\obj\Debug\net6.0\Prueba.AssemblyInfoInputs.cache
+E:\CURSO NET 6.0\Prueba\Prueba\Prueba\obj\Debug\net6.0\Prueba.AssemblyInfo.cs
+E:\CURSO NET 6.0\Prueba\Prueba\Prueba\obj\Debug\net6.0\Prueba.csproj.CoreCompileInputs.cache
+E:\CURSO NET 6.0\Prueba\Prueba\Prueba\obj\Debug\net6.0\Prueba.dll
+E:\CURSO NET 6.0\Prueba\Prueba\Prueba\obj\Debug\net6.0\refint\Prueba.dll
+E:\CURSO NET 6.0\Prueba\Prueba\Prueba\obj\Debug\net6.0\Prueba.pdb
+E:\CURSO NET 6.0\Prueba\Prueba\Prueba\obj\Debug\net6.0\Prueba.genruntimeconfig.cache
+E:\CURSO NET 6.0\Prueba\Prueba\Prueba\obj\Debug\net6.0\ref\Prueba.dll

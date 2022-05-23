@@ -1,0 +1,15 @@
+E:\CURSO NET 6.0\Clase_5\Tarea\Tarea_clase5\Tarea_clase5\bin\Debug\net6.0\Tarea_clase5.exe
+E:\CURSO NET 6.0\Clase_5\Tarea\Tarea_clase5\Tarea_clase5\bin\Debug\net6.0\Tarea_clase5.deps.json
+E:\CURSO NET 6.0\Clase_5\Tarea\Tarea_clase5\Tarea_clase5\bin\Debug\net6.0\Tarea_clase5.runtimeconfig.json
+E:\CURSO NET 6.0\Clase_5\Tarea\Tarea_clase5\Tarea_clase5\bin\Debug\net6.0\Tarea_clase5.dll
+E:\CURSO NET 6.0\Clase_5\Tarea\Tarea_clase5\Tarea_clase5\bin\Debug\net6.0\Tarea_clase5.pdb
+E:\CURSO NET 6.0\Clase_5\Tarea\Tarea_clase5\Tarea_clase5\obj\Debug\net6.0\Tarea_clase5.csproj.AssemblyReference.cache
+E:\CURSO NET 6.0\Clase_5\Tarea\Tarea_clase5\Tarea_clase5\obj\Debug\net6.0\Tarea_clase5.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSO NET 6.0\Clase_5\Tarea\Tarea_clase5\Tarea_clase5\obj\Debug\net6.0\Tarea_clase5.AssemblyInfoInputs.cache
+E:\CURSO NET 6.0\Clase_5\Tarea\Tarea_clase5\Tarea_clase5\obj\Debug\net6.0\Tarea_clase5.AssemblyInfo.cs
+E:\CURSO NET 6.0\Clase_5\Tarea\Tarea_clase5\Tarea_clase5\obj\Debug\net6.0\Tarea_clase5.csproj.CoreCompileInputs.cache
+E:\CURSO NET 6.0\Clase_5\Tarea\Tarea_clase5\Tarea_clase5\obj\Debug\net6.0\Tarea_clase5.dll
+E:\CURSO NET 6.0\Clase_5\Tarea\Tarea_clase5\Tarea_clase5\obj\Debug\net6.0\refint\Tarea_clase5.dll
+E:\CURSO NET 6.0\Clase_5\Tarea\Tarea_clase5\Tarea_clase5\obj\Debug\net6.0\Tarea_clase5.pdb
+E:\CURSO NET 6.0\Clase_5\Tarea\Tarea_clase5\Tarea_clase5\obj\Debug\net6.0\Tarea_clase5.genruntimeconfig.cache
+E:\CURSO NET 6.0\Clase_5\Tarea\Tarea_clase5\Tarea_clase5\obj\Debug\net6.0\ref\Tarea_clase5.dll

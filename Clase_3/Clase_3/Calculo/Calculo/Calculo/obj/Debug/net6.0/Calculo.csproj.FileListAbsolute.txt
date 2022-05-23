@@ -1,0 +1,15 @@
+E:\CURSO NET 6.0\Clase_3\Clase_3\Calculo\Calculo\Calculo\bin\Debug\net6.0\Calculo.exe
+E:\CURSO NET 6.0\Clase_3\Clase_3\Calculo\Calculo\Calculo\bin\Debug\net6.0\Calculo.deps.json
+E:\CURSO NET 6.0\Clase_3\Clase_3\Calculo\Calculo\Calculo\bin\Debug\net6.0\Calculo.runtimeconfig.json
+E:\CURSO NET 6.0\Clase_3\Clase_3\Calculo\Calculo\Calculo\bin\Debug\net6.0\Calculo.dll
+E:\CURSO NET 6.0\Clase_3\Clase_3\Calculo\Calculo\Calculo\bin\Debug\net6.0\Calculo.pdb
+E:\CURSO NET 6.0\Clase_3\Clase_3\Calculo\Calculo\Calculo\obj\Debug\net6.0\Calculo.csproj.AssemblyReference.cache
+E:\CURSO NET 6.0\Clase_3\Clase_3\Calculo\Calculo\Calculo\obj\Debug\net6.0\Calculo.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSO NET 6.0\Clase_3\Clase_3\Calculo\Calculo\Calculo\obj\Debug\net6.0\Calculo.AssemblyInfoInputs.cache
+E:\CURSO NET 6.0\Clase_3\Clase_3\Calculo\Calculo\Calculo\obj\Debug\net6.0\Calculo.AssemblyInfo.cs
+E:\CURSO NET 6.0\Clase_3\Clase_3\Calculo\Calculo\Calculo\obj\Debug\net6.0\Calculo.csproj.CoreCompileInputs.cache
+E:\CURSO NET 6.0\Clase_3\Clase_3\Calculo\Calculo\Calculo\obj\Debug\net6.0\Calculo.dll
+E:\CURSO NET 6.0\Clase_3\Clase_3\Calculo\Calculo\Calculo\obj\Debug\net6.0\refint\Calculo.dll
+E:\CURSO NET 6.0\Clase_3\Clase_3\Calculo\Calculo\Calculo\obj\Debug\net6.0\Calculo.pdb
+E:\CURSO NET 6.0\Clase_3\Clase_3\Calculo\Calculo\Calculo\obj\Debug\net6.0\Calculo.genruntimeconfig.cache
+E:\CURSO NET 6.0\Clase_3\Clase_3\Calculo\Calculo\Calculo\obj\Debug\net6.0\ref\Calculo.dll

@@ -1,0 +1,15 @@
+E:\CURSO NET 6.0\Clase_4\Condicional multiple\Condicional multiple\bin\Debug\net6.0\Condicional multiple.exe
+E:\CURSO NET 6.0\Clase_4\Condicional multiple\Condicional multiple\bin\Debug\net6.0\Condicional multiple.deps.json
+E:\CURSO NET 6.0\Clase_4\Condicional multiple\Condicional multiple\bin\Debug\net6.0\Condicional multiple.runtimeconfig.json
+E:\CURSO NET 6.0\Clase_4\Condicional multiple\Condicional multiple\bin\Debug\net6.0\Condicional multiple.dll
+E:\CURSO NET 6.0\Clase_4\Condicional multiple\Condicional multiple\bin\Debug\net6.0\Condicional multiple.pdb
+E:\CURSO NET 6.0\Clase_4\Condicional multiple\Condicional multiple\obj\Debug\net6.0\Condicional multiple.csproj.AssemblyReference.cache
+E:\CURSO NET 6.0\Clase_4\Condicional multiple\Condicional multiple\obj\Debug\net6.0\Condicional multiple.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSO NET 6.0\Clase_4\Condicional multiple\Condicional multiple\obj\Debug\net6.0\Condicional multiple.AssemblyInfoInputs.cache
+E:\CURSO NET 6.0\Clase_4\Condicional multiple\Condicional multiple\obj\Debug\net6.0\Condicional multiple.AssemblyInfo.cs
+E:\CURSO NET 6.0\Clase_4\Condicional multiple\Condicional multiple\obj\Debug\net6.0\Condicional multiple.csproj.CoreCompileInputs.cache
+E:\CURSO NET 6.0\Clase_4\Condicional multiple\Condicional multiple\obj\Debug\net6.0\Condicional multiple.dll
+E:\CURSO NET 6.0\Clase_4\Condicional multiple\Condicional multiple\obj\Debug\net6.0\refint\Condicional multiple.dll
+E:\CURSO NET 6.0\Clase_4\Condicional multiple\Condicional multiple\obj\Debug\net6.0\Condicional multiple.pdb
+E:\CURSO NET 6.0\Clase_4\Condicional multiple\Condicional multiple\obj\Debug\net6.0\Condicional multiple.genruntimeconfig.cache
+E:\CURSO NET 6.0\Clase_4\Condicional multiple\Condicional multiple\obj\Debug\net6.0\ref\Condicional multiple.dll

@@ -1,0 +1,15 @@
+E:\CURSO NET 6.0\Clase_8\tarea_clase_8\tarea_clase_8\bin\Debug\net6.0\tarea_clase_8.exe
+E:\CURSO NET 6.0\Clase_8\tarea_clase_8\tarea_clase_8\bin\Debug\net6.0\tarea_clase_8.deps.json
+E:\CURSO NET 6.0\Clase_8\tarea_clase_8\tarea_clase_8\bin\Debug\net6.0\tarea_clase_8.runtimeconfig.json
+E:\CURSO NET 6.0\Clase_8\tarea_clase_8\tarea_clase_8\bin\Debug\net6.0\tarea_clase_8.dll
+E:\CURSO NET 6.0\Clase_8\tarea_clase_8\tarea_clase_8\bin\Debug\net6.0\tarea_clase_8.pdb
+E:\CURSO NET 6.0\Clase_8\tarea_clase_8\tarea_clase_8\obj\Debug\net6.0\tarea_clase_8.csproj.AssemblyReference.cache
+E:\CURSO NET 6.0\Clase_8\tarea_clase_8\tarea_clase_8\obj\Debug\net6.0\tarea_clase_8.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSO NET 6.0\Clase_8\tarea_clase_8\tarea_clase_8\obj\Debug\net6.0\tarea_clase_8.AssemblyInfoInputs.cache
+E:\CURSO NET 6.0\Clase_8\tarea_clase_8\tarea_clase_8\obj\Debug\net6.0\tarea_clase_8.AssemblyInfo.cs
+E:\CURSO NET 6.0\Clase_8\tarea_clase_8\tarea_clase_8\obj\Debug\net6.0\tarea_clase_8.csproj.CoreCompileInputs.cache
+E:\CURSO NET 6.0\Clase_8\tarea_clase_8\tarea_clase_8\obj\Debug\net6.0\tarea_clase_8.dll
+E:\CURSO NET 6.0\Clase_8\tarea_clase_8\tarea_clase_8\obj\Debug\net6.0\refint\tarea_clase_8.dll
+E:\CURSO NET 6.0\Clase_8\tarea_clase_8\tarea_clase_8\obj\Debug\net6.0\tarea_clase_8.pdb
+E:\CURSO NET 6.0\Clase_8\tarea_clase_8\tarea_clase_8\obj\Debug\net6.0\tarea_clase_8.genruntimeconfig.cache
+E:\CURSO NET 6.0\Clase_8\tarea_clase_8\tarea_clase_8\obj\Debug\net6.0\ref\tarea_clase_8.dll

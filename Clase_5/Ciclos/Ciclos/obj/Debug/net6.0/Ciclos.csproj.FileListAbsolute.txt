@@ -1,0 +1,15 @@
+E:\CURSO NET 6.0\Clase_5\Ciclos\Ciclos\bin\Debug\net6.0\Ciclos.exe
+E:\CURSO NET 6.0\Clase_5\Ciclos\Ciclos\bin\Debug\net6.0\Ciclos.deps.json
+E:\CURSO NET 6.0\Clase_5\Ciclos\Ciclos\bin\Debug\net6.0\Ciclos.runtimeconfig.json
+E:\CURSO NET 6.0\Clase_5\Ciclos\Ciclos\bin\Debug\net6.0\Ciclos.dll
+E:\CURSO NET 6.0\Clase_5\Ciclos\Ciclos\bin\Debug\net6.0\Ciclos.pdb
+E:\CURSO NET 6.0\Clase_5\Ciclos\Ciclos\obj\Debug\net6.0\Ciclos.csproj.AssemblyReference.cache
+E:\CURSO NET 6.0\Clase_5\Ciclos\Ciclos\obj\Debug\net6.0\Ciclos.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSO NET 6.0\Clase_5\Ciclos\Ciclos\obj\Debug\net6.0\Ciclos.AssemblyInfoInputs.cache
+E:\CURSO NET 6.0\Clase_5\Ciclos\Ciclos\obj\Debug\net6.0\Ciclos.AssemblyInfo.cs
+E:\CURSO NET 6.0\Clase_5\Ciclos\Ciclos\obj\Debug\net6.0\Ciclos.csproj.CoreCompileInputs.cache
+E:\CURSO NET 6.0\Clase_5\Ciclos\Ciclos\obj\Debug\net6.0\Ciclos.dll
+E:\CURSO NET 6.0\Clase_5\Ciclos\Ciclos\obj\Debug\net6.0\refint\Ciclos.dll
+E:\CURSO NET 6.0\Clase_5\Ciclos\Ciclos\obj\Debug\net6.0\Ciclos.pdb
+E:\CURSO NET 6.0\Clase_5\Ciclos\Ciclos\obj\Debug\net6.0\Ciclos.genruntimeconfig.cache
+E:\CURSO NET 6.0\Clase_5\Ciclos\Ciclos\obj\Debug\net6.0\ref\Ciclos.dll
